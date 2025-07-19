@@ -1,5 +1,5 @@
-# Hackerrank-SQL-Certificate-Test-Solutions
-Hackerrank-SQL-Certificate-Test-Solutions
+# Hackerrank-SQL-Intermediate-Certificate-Test-Solutions
+Hackerrank-SQL-Intermediate-Certificate-Test-Solutions
 
 Questions
 Business Expansion
